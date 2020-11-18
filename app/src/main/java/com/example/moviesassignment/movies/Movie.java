@@ -1,4 +1,4 @@
-package com.example.moviesassignment;
+package com.example.moviesassignment.movies;
 
 public class Movie {
     private String mTitle;
